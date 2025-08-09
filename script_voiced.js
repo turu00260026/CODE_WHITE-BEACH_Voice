@@ -75,6 +75,9 @@ function setupEventListeners() {
     elements.resumeButton.addEventListener('click', () => elements.menuScreen.classList.add('hidden'));
     elements.titleReturnButton.addEventListener('click', returnToTitle);
     elements.endingTitleButton.addEventListener('click', returnToTitle);
+    
+    // キーボードイベントリスナーを追加
+    document.addEventListener('keydown', handleKeyPress);
 }
 
 // ===== 画面制御 =====
@@ -382,6 +385,39 @@ function handleGameScreenClick(e) {
         // シナリオを進行
         addToHistory();
         advanceScene();
+    }
+}
+
+// ===== キーボード入力処理 =====
+function handleKeyPress(e) {
+    // エンターキーまたはスペースキーの場合
+    if (e.code === 'Enter' || e.code === 'Space') {
+        // ゲーム画面が表示されている場合のみ処理
+        if (!elements.gameScreen.classList.contains('hidden')) {
+            // デフォルト動作を防ぐ（スペースキーのスクロールなど）
+            e.preventDefault();
+            
+            // 選択肢画面でない場合のみシナリオを進行
+            if (!gameState.isPlaying || gameState.isChoiceScene) return;
+            
+            const currentBlockData = scenarioData[gameState.currentProtagonist][gameState.currentBlock];
+            if (!currentBlockData || gameState.currentIndex > currentBlockData.length) return;
+            
+            const currentLineData = currentBlockData[gameState.currentIndex - 1];
+            
+            // タイピング中の場合は完了させる
+            if (currentLineData && elements.dialogueText.textContent.length < (currentLineData.text || '').length) {
+                clearInterval(typeInterval);
+                elements.dialogueText.textContent = currentLineData.text;
+                if (!gameState.isChoiceScene) {
+                    elements.nextIndicator.style.display = 'block';
+                }
+            } else {
+                // シナリオを進行
+                addToHistory();
+                advanceScene();
+            }
+        }
     }
 }
 
