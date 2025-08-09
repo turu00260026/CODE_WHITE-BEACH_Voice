@@ -1,0 +1,3528 @@
+{
+  "ショウ編": {
+    "act1": [
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "都会の喧騒を抜け、俺は白浜に降り立った。",
+        "background": "haikei/haikei1.jpg",
+        "char_image": "image/syou1.png",
+        "voice": "L00001"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "友人しょうの誘いに乗り、バカンス……いや、環境を変えてのトレーニング合宿に来たんだ。待ち合わせまで、まだ時間がある。まずはビーチの偵察といくか。",
+        "voice": "L00002"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……フッ、いいじゃないか",
+        "voice": "L00003"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（ふむ、レベルは悪くない。だが、俺の審美眼に適うほどの『仕上がった』肉体は見当たらないな。まあ、今日はまず肩慣らしだ）",
+        "voice": "L00004"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "「あっ、うっ、あっ、ゔゔぅう……！」",
+        "voice": "L00005"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（いいぞ…！ 大胸筋上部に灼けるような刺激が…！ この不安定な砂地が、体幹にも…！）",
+        "voice": "L00006"
+      },
+      {
+        "type": "dialogue",
+        "character": "？？？",
+        "text": "……おい",
+        "char_image": "keisukee/keisuke5.png",
+        "voice": "L00255"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（……なんだこいつ。めちゃくちゃ、タイプじゃないか…！？）",
+        "voice": "L00008"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……なんだ。俺に何か用か？",
+        "voice": "L00009"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "単刀直入に聞く。今、何をしている？",
+        "voice": "L00010"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "トレーニングだ。見て分からないか？",
+        "voice": "L00011"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ああ、分かる。ボクが聞きたいのは、その行為の目的合理性についてだ",
+        "voice": "L00012"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "モクテキゴウリセイ…？",
+        "voice": "L00013"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "気温32度、湿度75％、強い紫外線。身体の水分は奪われ、熱中症のリスクも高い。こんな劣悪な環境で自ら体に負荷をかけ、貴重なエネルギーを浪費する。どう考えても非合理的だ。一体、何のためにやっている？",
+        "voice": "L00014"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フッ……お嬢さん、何も分かっていないな。これは浪費じゃない、未来の自分への『投資』だ",
+        "voice": "L00015"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "投資、だと？",
+        "voice": "L00016"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "そうだ。社会も、他人も、なんなら自分の移ろいやすい感情すら裏切る。だが、正しく積み上げた筋肉だけは、決して俺を裏切らない。これ以上に合理的で、確実な投資があるか？",
+        "voice": "L00017"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふっ。筋肉は裏切らない、か。随分と単純明快な世界観で生きているんだな。羨ましい限りだ",
+        "voice": "L00018"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "単純こそ至高だ。世の中の複雑怪奇な物事は、大抵がまがい物か、誰かの悪意で出来ている",
+        "voice": "L00019"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……社会も、他人も裏切る。そこだけは、同意する",
+        "voice": "L00020"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "だからこそ、ボクは合理的な判断だけを信じる。感情や期待といったノイズは、思考の純度を下げるバグでしかない",
+        "voice": "L00021"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……お前のような、脳まで筋肉で満たされていそうな人間には、到底理解できないだろうがな。この社会という巨大で非合理なシステムの中で、自分の進むべき道を合理的に見つけ出す。その難しさが、お前に分かるか？",
+        "voice": "L00022"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "道が見えないなら、まず自分が最強の乗り物(最強の肉体)になればいい",
+            "score": 2,
+            "next_block": "act1_choice_2pt"
+          },
+          {
+            "text": "難しく考えるな。スクワットでもすれば悩みは吹っ飛ぶ",
+            "score": 1,
+            "next_block": "act1_choice_1pt"
+          },
+          {
+            "text": "ウジウジ考えるのは、テストステロンが足りない証拠だ",
+            "score": 0,
+            "next_block": "act1_choice_0pt"
+          }
+        ]
+      }
+    ],
+    "act1_choice_2pt": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フッ……簡単なことだ。道が見えないなら、まず自分が最強の乗り物(最強の肉体)になればいい",
+        "char_image": "image/syou1.png",
+        "voice": "L00023"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……乗り物？",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00024"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "そうだ。お前の言う『進むべき道』や『社会システム』は、いわば外部環境だ。天候と同じで、自分の力ではコントロールできない。違うか？",
+        "char_image": "image/syou1.png",
+        "voice": "L00025"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "…まあ、そうだな",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00026"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "なら、思考の起点を変えるんだ。コントロールできない外部を憂うのではなく、完全にコントロール可能な唯一の資本――『自分自身の肉体』に集中する。どんな環境でも揺るがない強靭なフィジカルと、それを達成する過程で得られる強靭なメンタル。それこそが、あらゆる不確定要素に対する、最も合理的で根源的な解だ",
+        "char_image": "image/syou1.png",
+        "voice": "L00027"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……！",
+        "voice": "L00422"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "最強の肉体は、最強の精神を宿す器になる。まず自分が最強の個体となり、絶対的な自信という土台を築く。進むべき道を探すのは、それからでも遅くない",
+        "voice": "L00029"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふっ……ふ、ははは！ なるほど！ 確かに！",
+        "char_image": "keisukee/keisuke7.png",
+        "voice": "L00030"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（なっ…！？ 笑った…だと…？ 不意打ちでそんな顔は反則だろ…。いや、それ以上に、俺の理論が通じた！ この金髪の、キリッとした…いや、笑うと結構かわいい少女に、俺の筋肉哲学が！ やった…！ やったぞ…！ 喜びで大胸筋がパンプアップしそうだ！）",
+        "voice": "L00031"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "発想は驚くほど原始的だが、ロジックは完璧に通っている……！ 外部の不確定要素を無視し、制御可能な内部変数（自分）を極限まで高めることで、相対的に外部の影響を無力化する…。クククッ、面白い！ お前、面白いな！",
+        "voice": "L00032"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう（遠くから）",
+        "text": "ショウーーッ！ ごっめーん、待ったーー！？",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00055"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "はぁ、はぁ……。お、いたいた！ ……って、あれ？",
+        "voice": "L00034"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "え、と……ショウ、まさかナンパか！？ やるじゃん、相手めちゃくちゃ綺麗な人だし！",
+        "voice": "L00035"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "ち、違う！ 断じて違う！ これは哲学的な対話の結果であって、断じてそんな不純なものでは…！",
+        "char_image": "image/syou1.png",
+        "voice": "L00036"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクはけいすけ。お前が、しょうか。この男の友人だという",
+        "char_image": "keisukee/keisuke8.png",
+        "voice": "L00037"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "あ、はい！ 俺はしょうです！ えっ、けいすけ……さん？ ショウの知り合い？",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00038"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "いや、今しがた知性的な対話を交わしたところだ。お前の友人は、見かけによらず興味深い思考回路をしている",
+        "voice": "L00039"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（興味深い、だと…！？ よし…！ 見た目はアレだが、俺のインテリジェンスが伝わったようだ…！）",
+        "char_image": "image/syou1.png",
+        "voice": "L00040"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なあ、脳筋。お前のその『筋肉哲学』が、あの人工的に管理された自然…アドベンチャーワールドでどう機能するのか、この目で観察させてもらう。ちょうどチケットが余っていた。もちろん、断るという非合理な選択はしないよな？",
+        "char_image": "keisukee/keisuke8.png",
+        "voice": "L00041"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "の、脳筋……まあ、いいだろう。面白い。その挑戦、受けて立つ。俺の理論の汎用性を、お前の目の前で証明してやろう",
+        "char_image": "image/syou1.png",
+        "voice": "L00042"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "えっ！？ なに！？ けいすけちゃん、チケット持ってるの！？ もしかして、３人でアドベンチャーワールド行く流れ！？ やったー！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00043"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前も来るのか？ まあいい。対照サンプルが多い方が、観察は捗る。ボクのチケットは２枚しかないが",
+        "char_image": "keisukee/keisuke8.png",
+        "voice": "L00044"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "大丈夫！ 俺も持ってるから！ もともとショウを誘おうと思ってたんだ！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00045"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "決まりだな。では、行こうか。ボクの夏休みの自由研究テーマは『筋肉思考の生態観察』に決まった",
+        "char_image": "keisukee/keisuke8.png",
+        "voice": "L00046"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "やったね、ショウ！ けいすけちゃん、クールビューティって感じで凄い美人だね！ 仲良くなれるといいな！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00047"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "ふ、フン。別に、俺は自分の理論を証明するだけだ。他意はない",
+        "char_image": "image/syou1.png",
+        "voice": "L00048"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "こうして、俺の白浜トレーニング合宿は、予想外の、いや、最高にエキサイティングな幕開けを迎えた。揺れるのは大胸筋か、それとも俺の心か。……フッ、いずれにせよ、最高の夏になりそうだ。",
+        "next_act": "act2",
+        "voice": "L00049"
+      }
+    ],
+    "act1_choice_1pt": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フッ……難しく考えるな。スクワットでもすれば、そんな悩みは吹っ飛ぶ",
+        "char_image": "image/syou1.png",
+        "voice": "L00050"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "…………はぁ",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00286"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なるほどな。やはり、お前の脳の皺は上腕二頭筋の溝より浅いらしい",
+        "voice": "L00052"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "なっ…！ どういう意味だ！",
+        "char_image": "image/syou1.png",
+        "voice": "L00053"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "血流を促進させ、一時的に思考を麻痺させることが、問題の解決だと？ それはただの対症療法だ。ボクが提起しているのは、根治療法に値する構造的な問題だというのに。…まあ、お前程度の思考回路ではそれが限界か",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00054"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう（遠くから）",
+        "text": "ショウーーッ！ ごっめーん、待ったーー！？",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00055"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "はぁ、はぁ……って、可愛い女の子と一緒？！ どうしたの、なんか険悪なムードじゃない…？",
+        "voice": "L00056"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前の友人は、人間の複雑な精神構造を、ハムストリングスの収縮運動で解決できると信じているらしい。ある意味、希少動物だな",
+        "char_image": "keisukee/keisuke6.png",
+        "voice": "L00057"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "あ、あははは……ショウはいつもこんな感じなんだよ、悪気はないっていうか……ね！ それよりさ！ せっかくだからみんなでアドベンチャーワールド行かない？ 僕、チケットあるんだ！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00058"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふぅん。まあ、いいだろう。単純な思考回路を持つ生物が、高度に設計された環境でどう振る舞うのか。観察サンプルとしては、ギリギリ及第点だ",
+        "char_image": "keisukee/keisuke6.png",
+        "voice": "L00059"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "おい、なんだその上から目線は…",
+        "char_image": "image/syou1.png",
+        "voice": "L00060"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "まあまあまあ！ とにかく行こうよ！ ねっ！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00061"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "俺の筋肉哲学は、金髪のインテリ少女によって「希少動物の奇行」レベルにまで格下げされた。これから向かうアドベンチャーワールドで、俺はこの屈辱を晴らすことができるのだろうか。",
+        "next_act": "act2",
+        "voice": "L00062"
+      }
+    ],
+    "act1_choice_0pt": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フッ……そんな風にウジウジ考えるのは、テストステロンが足りない証拠だ",
+        "char_image": "image/syou1.png",
+        "voice": "L00063"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……なるほど。お前との対話は、時間の無駄だったな",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00064"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "なっ…！？",
+        "char_image": "image/syou1.png",
+        "voice": "L00065"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクの問いは、思考する知性への問いだ。それをホルモンの多寡で語る単細胞生物に、答える資格はない。失せろ",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00066"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう（遠くから）",
+        "text": "ショウーーッ！ ごめん！って、うわっ！ けいすけちゃん、どうしたのそんなに怒って！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00067"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "しょうか。悪いが、お前の友人を選別する基準を疑う。ボクは帰る",
+        "voice": "L00068"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ええっ！？ 待ってよけいすけちゃん！ これからショウも一緒に、ご飯でもどうかなって思ってたのに！",
+        "voice": "L00069"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "そんな男と食事をするくらいなら、一人で栄養成分表示でも眺めている方が、よほど有意義だ",
+        "voice": "L00070"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "あ……行っちゃった……。ショウ、いったい何言ったんだよ…",
+        "voice": "L00071"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "…………",
+        "char_image": "image/syou1.png",
+        "voice": "L00322"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "俺の筋肉哲学、いや、ただの軽薄な一言は、彼女の世界から完全に排除された。白浜の太陽が、やけに恨めしい。友人しょうとの合流も、最悪の幕開けとなった。",
+        "char_image": "image/syou2.png",
+        "voice": "L00073"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（あれから数時間後。俺としょうは、気を取り直して昼食をとるために、観光客で賑わう『とれとれ市場』に来ていた）",
+        "background": "haikei/haikei3.jpg",
+        "voice": "L00074"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "まあ、元気出せよショウ。けいすけちゃん、ああ見えて根は悪い子じゃないからさ。たぶん、機嫌が悪かっただけだよ",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00075"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……ああ。そうだな",
+        "char_image": "image/syou1.png",
+        "voice": "L00076"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（くそ…！ 俺としたことが…！ 完全に調子に乗っていた…。なんとか、もう一度会って挽回するチャンスは…）",
+        "voice": "L00077"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "お、海鮮丼の店だ！ 美味そう！ ここにしようぜ、ショウ！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00078"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（しょうが指差した店の前。そこに、見覚えのある金髪のショートカットがいた。けいすけだ。彼女は一人、店の前のメニュー看板を真剣な顔で眺めていた）",
+        "char_image": "keisukee/keisuke9.png",
+        "voice": "L00079"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "け、けいすけ…！",
+        "char_image": "image/syou1.png",
+        "voice": "L00080"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……げ。またお前たちか。本当に、この町は狭いな",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00081"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "けいすけちゃん！ 奇遇だね！ 俺たちも今、お昼食べようと思ってたんだ！ よかったら一緒にどうかな！？",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00082"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "断る。単細胞生物と食事をしても、栄養の吸収効率が下がるだけだ",
+        "voice": "L00083"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（ぐっ…！ 相変わらずキツい一言…！ だが、ここで引き下がるわけにはいかない！ これは神が与えてくれた、セカンドチャンスだ！）",
+        "char_image": "image/syou1.png",
+        "voice": "L00084"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "待ってくれ。さっきは、俺が悪かった。完全に俺の失言だ。謝罪する",
+        "voice": "L00085"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ほう。筋肉以外にも、反省する機能が脳に残っていたとはな。だが、謝罪に価値はない。失われた信頼は、言葉では回復しない",
+        "voice": "L00086"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "なら、どうすればいい。どうすれば、あんたは俺を許す",
+        "voice": "L00087"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前のその自慢の筋肉が、本物かどうか。この目で確かめさせろ。ボクが納得するような数値を叩き出せたら、お前の存在を、もう一度『観察対象』のリストに戻してやらないでもない",
+        "voice": "L00088"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……面白い",
+        "voice": "L00089"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "いいだろう。俺の筋肉の全てを、この一撃に込める",
+        "voice": "L00090"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（全身の筋肉を連動させる。足で地面を掴み、腰を捻転させ、その力を背中から肩、そして拳へ…！ 見せてやる、俺の哲学の証明を！）",
+        "voice": "L00091"
+      },
+      {
+        "type": "dialogue",
+        "character": "ディスプレイ",
+        "text": "『９９９』- K.O. -",
+        "voice": "L00092"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "す、すげぇ……！ ショウ、お前人間かよ…！？",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00093"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……これで、どうだ？",
+        "char_image": "image/syou1.png",
+        "voice": "L00094"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふっ。まあ、及第点、といったところか。単細胞生物なりに、一つの能力に特化していることだけは認めてやる。約束通り、お前の存在を『観察対象』のリストに戻そう",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00095"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "そうか。なら…",
+        "char_image": "image/syou1.png",
+        "voice": "L00096"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "だが、ボクに無駄な時間を使わせたことには変わりない。この借りは、きっちり返してもらうぞ",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00097"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "あっ！ アドベンチャーワールドのチケット！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00098"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前のその規格外のフィジカルが、野生動物たちの前でどう機能するのか。あるいは、まったくの無力なのか。ボクはその生態を、一日かけてじっくり観察させてもらう。これは命令だ。拒否権はない",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00099"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "えっ、じゃあ三人で行けるの！？ 俺もチケット持ってるよ！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00100"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フッ……面白い。望むところだ。その代わり、俺の筋肉哲学の素晴らしさを、骨の髄まで叩き込んでやる",
+        "char_image": "image/syou1.png",
+        "voice": "L00101"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "言ったな？ なら、せいぜいボクを楽しませてみろ、脳筋",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00102"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "最悪の出会いから数時間。俺は文字通り拳一つで、この金髪の美少女との関係を繋ぎ止めた。目指すは、アドベンチャーワールド。これはデートじゃない。俺の価値を証明するための、戦いだ。",
+        "next_act": "act2",
+        "voice": "L00103"
+      }
+    ],
+    "act2": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "うおおお！ 来たー！ アドベンチャーワールド！ ショウ、けいすけちゃん、まずはケニア号に乗ってサファリを一周しよう！",
+        "background": "haikei/haikei4.jpg",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00104"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（フッ…まさか、白浜に来て早々、こんな美少女とテーマパークに来ることになるとはな。これも日々の鍛錬が引き寄せた必然か…？ いや、今は冷静になれ俺。あくまで目的は、俺の理論の証明だ）",
+        "char_image": "image/syou1.png",
+        "voice": "L00105"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ふぅん。人間を効率的に誘導し、購買意欲を刺激するための動線設計か。なかなか巧妙にできているな",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00106"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "うわー！ キリンだ！ 首なっがーい！ あっちにはシマウマもいる！",
+        "background": "haikei/haikei6.jpg",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00107"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "おい、あのライオンを見ろ。あの大胸筋と広背筋のバランス…ベンチプレスなら軽く200kgは挙げるな。まさに百獣の王の肉体だ",
+        "char_image": "image/syou1.png",
+        "voice": "L00108"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ほう。ボクはあちらのチーターに興味がある。極限まで無駄を削ぎ落とした、走るためだけのフォルム。生体力学的には美しいが、生存戦略としては一点特化すぎてリスクが高い。不器用な生き方だ",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00109"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "そうだ！ パンダはいなくなっちゃったけど、アドベンチャーワールドにはもう一つの至宝がいるんだ！ 二人とも、こっちに来て！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00110"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "どう！？ この圧倒的なかわいさ！",
+        "background": "haikei/haikei5.jpg",
+        "voice": "L00111"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "ふむ…体幹は悪くないが、筋肉量は皆無に近い。あの威嚇のようなポーズも、実戦では何の役にも立たないだろう。愛玩動物としての生存戦略か…",
+        "char_image": "image/syou1.png",
+        "voice": "L00112"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "あの赤い毛色は、森林において保護色として機能するのか？ いや、むしろ目立つか…。あの長い尻尾はバランスを取るためだろうが、それにしても過剰な装飾だ。一体、何の合理性が…",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00113"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（その時だった。一匹のレッサーパンダが、こちらに気づいてぴょこんと立ち上がり、小首をかしげた。その瞬間、けいすけの言葉が、ぴたりと止まった）",
+        "char_image": "image/rpanda.png",
+        "voice": "L00114"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "…………",
+        "voice": "L00322"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "どうした、けいすけ。何か分析結果でも出たか？",
+        "char_image": "image/syou1.png",
+        "voice": "L00116"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ひ、非合理…だ…。あのフォルム、あの動き、あの表情…すべてが、生存戦略上の必然性から逸脱している…。なのに、なぜだ…この、ボクの論理回路を直接、攻撃してくるような感覚は…",
+        "char_image": "keisukee/keisuke19.png",
+        "voice": "L00117"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "え、それって単純に『めちゃくちゃ可愛い』ってことじゃないかな…？",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00118"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "だ、黙れ！ 『可愛い』などという主観的で非生産的な感情で片付けるな！ これは、ボクの認知システムに対する一種のハッキングだ…！ 理解不能、制御不能…！ な、なんだこれは…ッ！",
+        "char_image": "keisukee/keisuke19.png",
+        "voice": "L00119"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（やばい、なんか、めちゃくちゃ可愛いんだが…！？ いや待て、俺。ここでどう動くべきだ？ これはチャンスだ。彼女の鎧が剥がれた今、俺の哲学、いや、男としての真価が問われる…！）",
+        "char_image": "image/syou1.png",
+        "voice": "L00120"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "論理で説明できないものもある。それを受け入れるのも強さだ",
+            "score": 2,
+            "next_block": "act2_choice_2pt"
+          },
+          {
+            "text": "こいつはもうダメだ。次の動物を見に行こうぜ",
+            "score": 1,
+            "next_block": "act2_choice_1pt"
+          },
+          {
+            "text": "なんだ、そんな小動物ごときに動揺するとは。お前も大したことないな",
+            "score": 0,
+            "next_block": "act2_choice_0pt"
+          }
+        ]
+      }
+    ],
+    "act2_choice_2pt": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……フッ。論理で説明できないものもある。それを受け入れるのも、また強さだ",
+        "char_image": "image/syou1.png",
+        "voice": "L00121"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……強さ、だと？",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00122"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "そうだ。100kgのバーベルを挙げるには、ただ力むだけじゃダメだ。筋肉の声を聞き、その日のコンディションを受け入れ、時には引く勇気も必要になる。自分の理解を超える現象に直面した時、それを無理やり捻じ伏せようとするのはただの傲慢だ。受け入れ、認めた上で、自分の中に新しい引き出しを作る。それこそが真の強靭さ…フィジカルにも、メンタルにも通じる理屈だ",
+        "char_image": "image/syou1.png",
+        "voice": "L00123"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "『可愛い』と感じる自分を、お前が受け入れればいい。それだけのことだ",
+        "voice": "L00124"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……お前は、本当に……",
+        "voice": "L00125"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……脳まで筋肉だと思っていたが、たまにはマシなことを言うんだな",
+        "voice": "L00126"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（その後、俺たちはイルカショーを見たり、他の動物たちを見て回ったりした。けいすけの毒舌は相変わらずだったが、その言葉にはどこか棘が取れ、俺の隣を歩く距離も、心なしか近くなったように感じた）",
+        "voice": "L00127"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（そして、閉園時間。俺たちはアドベンチャーワールドを後にした）",
+        "voice": "L00341"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（しょうが「腹減った！晩飯の買い出ししてくる！」と言って走り去り、俺とけいすけは二人きりで、夕日に染まる千畳敷の岩畳に腰を下ろしていた。波が岩肌を洗う音だけが、静かに響く）",
+        "background": "haikei/haikei9.jpg",
+        "voice": "L00129"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……なあ、ショウ",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00157"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "なんだ？",
+        "char_image": "image/syou1.png",
+        "voice": "L00131"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "今日のレッサーパンダ…いや、お前の言っていたこと。少しだけ、分かった気がする",
+        "voice": "L00132"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（彼女は、水平線に沈んでいく太陽を見つめながら、ぽつりと語り始めた。それは、誰にも見せたことのない、弱さを少しだけ含んだ声だった）",
+        "voice": "L00133"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクは、ずっと合理性だけを信じてきた。非合理な感情は、切り捨てるべきノイズだと。だが、ボクが『進路を決められない』でいる本当の理由は、たぶん…",
+        "branch_act3": true,
+        "voice": "L00134"
+      }
+    ],
+    "act2_choice_1pt": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "お、おい、けいすけ？ ……ダメだこりゃ。しょう、こいつはもう思考がショートしてる。次の動物を見に行こうぜ",
+        "char_image": "image/syou2.png",
+        "voice": "L00135"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……触るな",
+        "char_image": "keisukee/keisuke14.png",
+        "voice": "L00136"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "え？",
+        "char_image": "image/syou2.png",
+        "voice": "L00137"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……フン。少しノイズの多い情報に触れただけだ。もう問題ない。それより、お前は本当にデリカシーという概念を母親の腹の中に忘れてきたんだな",
+        "voice": "L00138"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ま、まあまあ！ けいすけちゃん！ レッサーパンダ、可愛かったよね！ ねっ！？",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00139"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（その後、イルカショーなどを見て回ったが、けいすけはほとんど口を開かなかった。時折、ボソッと皮肉を言うだけで、明らかに壁を作っているのが分かる。俺もどう話しかけていいか分からず、しょうだけが空回りしながら場を盛り上げようとしていた）",
+        "voice": "L00140"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（気まずい空気のまま、閉園時間。俺たちはアドベンチャーワールドを後にした）",
+        "voice": "L00141"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（3人で並んで砂浜を歩く。誰も口を開かず、ただ波の音だけが聞こえる。しょうが何か言いたそうに、俺とけいすけの顔を交互に見ている）",
+        "background": "haikei/haikei18.jpg",
+        "char_image": "image/syou2.png",
+        "voice": "L00142"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（くそ…なんであんなこと言っちまったんだ、俺は…。完全に機嫌を損ねてやがる…。だが、どう謝れば…）",
+        "voice": "L00143"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（俺が内心で葛藤していると、けいすけが不意に立ち止まった）",
+        "voice": "L00144"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ボクは、ここで失礼する",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00145"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "えっ、けいすけちゃん！ これからみんなでご飯じゃ…",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00146"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "気分じゃない。じゃあな",
+        "branch_act3": true,
+        "voice": "L00147"
+      }
+    ],
+    "act2_choice_0pt": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フン。なんだ、そんな小動物ごときに動揺するとは。お前も大したことないな。もっと鉄の意志を持ってるかと思ったぜ",
+        "char_image": "image/syou1.png",
+        "voice": "L00148"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……そうか。それが、お前の出した結論か",
+        "char_image": "keisukee/keisuke14.png",
+        "voice": "L00149"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "え…？",
+        "char_image": "image/syou1.png",
+        "voice": "L00364"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクの失態を嘲笑うとはな。お前の知性はその程度だと、よく分かった。……もういい。お前たちと過ごす時間は、一秒たりとも価値がない",
+        "voice": "L00151"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "け、けいすけちゃん！ 待って！ ショウも悪気があって言ったわけじゃ…！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00152"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "黙れ、しょう。友人を選ぶなら、もう少しマシなやつにしろ",
+        "voice": "L00153"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（俺としょうは、ガラスの向こうで無邪気に遊ぶレッサーパンダと、去っていく彼女の後ろ姿を、ただ呆然と見送ることしかできなかった）",
+        "voice": "L00154"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（アドベンチャーワールドからの帰り道、バスの中は信じられないほど気まずかった）",
+        "voice": "L00155"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（俺としょうは、夕暮れのコンビニの前で、黙って缶ジュースを飲んでいた）",
+        "background": "haikei/haikei18.jpg",
+        "char_image": "image/syou2.png",
+        "voice": "L00156"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "……なあ、ショウ",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00157"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……なんだ",
+        "char_image": "image/syou2.png",
+        "voice": "L00158"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "……あれは、言っちゃダメだよ。女の子が一番見せたくないところを、笑っちゃダメだ",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00159"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……分かってる",
+        "voice": "L00160"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "……もう、会ってくれないかもな",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00161"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（しょうの言葉が、重く胸に突き刺さる。白浜の夜は、まだ始まったばかりだというのに、俺の夏は、もう終わってしまったのかもしれない）",
+        "branch_act3": true,
+        "voice": "L00162"
+      }
+    ],
+    "act3_high": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（アドベンチャーワールドから数日後。俺のスマホに、メッセージが入った。差出人は『けいすけ』）",
+        "background": "haikei/haikei8.jpg",
+        "char_image": "keisukee/keisuke8.png",
+        "voice": "L00163"
+      },
+      {
+        "type": "dialogue",
+        "character": "メッセージ",
+        "text": "『円月島に夕日が沈む。思考の整理に付き合え。すぐに来い』",
+        "voice": "L00164"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "呼び出すとは、珍しいな",
+        "char_image": "image/syou1.png",
+        "voice": "L00165"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……来たか。遅いぞ",
+        "voice": "L00166"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "別に、お前に用があったわけじゃない。ただ、ボクの思考が行き詰まった時、お前という突飛な発想の持ち主が、触媒として役に立つと思っただけだ",
+        "voice": "L00167"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "触媒、ね。それで、今日の議題はなんだ？",
+        "voice": "L00168"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……分かっているんだ。社会システムに組み込まれるのは非合理だと言いながら、そこから外れて孤立するのもまた、生存戦略として非合理だということが。このパラドックスの解が、見つからない",
+        "voice": "L00169"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なあ、ショウ。お前は、いつも単純明快だ。その単純さの奥にある『核』は何だ？ お前なら、この矛盾をどう考える？",
+        "voice": "L00170"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "システムのルールが気に食わないなら、自分がルールそのものになればいい。誰にも文句を言わせない、絶対的な『個』に",
+            "score": 2,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "お前のその『悩み』、今すぐベンチプレスで持ち上げてやる。何キロだ？",
+            "score": 1,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "なるほど、分かった。つまり、最強の筋肉があれば社会など気にせず生きていける。結論は俺と同じだな！",
+            "score": 0,
+            "next_block": "final_choice"
+          }
+        ]
+      }
+    ],
+    "final_choice": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "",
+        "branch_ending": true,
+        "voice": "L00327"
+      }
+    ],
+    "act3_mid": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（アドベンチャーワールドでの一件から数日。しょうから『今夜、白良浜で花火しない？』と誘われた。行ってみると、そこにはしょうと、少し離れた場所にけいすけがいた）",
+        "background": "haikei/haikei2.jpg",
+        "char_image": "image/syou1.png",
+        "voice": "L00172"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……チッ。来たか",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00173"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "やあ、ショウ！ けいすけちゃん、ああ言ってるけど、本当は楽しみにしてたんだよ！ ねっ？",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00174"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "黙れしょう。ボクは、夏の夜の光学的現象と、人間の集団心理の関係性を観察しに来ただけだ",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00175"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……",
+        "voice": "L00177"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……",
+        "voice": "L00177"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……綺麗だとか、楽しいとか、そういう感情には何の生産性もない。一瞬で消え去る光に、人はなぜ価値を見出すんだ？ 全くもって、非合理的だ",
+        "voice": "L00178"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……どうせお前は、『花火より筋肉』とか『燃焼効率がどう』とか、そういう即物的なことしか言わないんだろうがな",
+        "voice": "L00179"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "システムのルールが気に食わないなら、自分がルールそのものになればいい。誰にも文句を言わせない、絶対的な『個』に",
+            "score": 2,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "お前のその『悩み』、今すぐベンチプレスで持ち上げてやる。何キロだ？",
+            "score": 1,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "なるほど、分かった。つまり、最強の筋肉があれば社会など気にせず生きていける。結論は俺と同じだな！",
+            "score": 0,
+            "next_block": "final_choice"
+          }
+        ]
+      }
+    ],
+    "act3_low": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（あの日から数日。スマホに、けいすけから『三段壁に来い』という短いメッセージが届いた。とれとれ市場での借りを、まだ忘れてはいなかったらしい。こんな場所に呼び出すとは、悪趣味なやつだ）",
+        "background": "haikei/haikei10.jpg",
+        "char_image": "keisukee/keisuke6.png",
+        "voice": "L00180"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（月明かりに照らされた断崖絶壁に、けいすけは一人で立っていた。柵の向こうは、闇に飲まれた海だ）",
+        "voice": "L00181"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "来たか、脳筋。遅かったな",
+        "voice": "L00182"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "こんな場所に呼び出して、何のつもりだ",
+        "char_image": "image/syou1.png",
+        "voice": "L00183"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "フッ。お前の限界がどこにあるのか、見極めに来ただけだ",
+        "voice": "L00184"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（彼女は俺に背を向けたまま、崖の下の闇を指差した）",
+        "voice": "L00185"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なあ、ショウ。社会というゲームから完全に降りて、あの闇に溶けてしまえば、あらゆる悩みや矛盾から解放される。ある意味、最も合理的で、最終的な解決策だと思わないか？",
+        "voice": "L00186"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（その声は冷たく、本気か冗談か分からない。だが、俺の反応を、魂の底まで見透かそうとしていることだけは確かだった）",
+        "voice": "L00187"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "……くだらないことを言うな",
+        "voice": "L00188"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "くだらない？ なぜだ？ 論理的に説明してみろ。お前の言う『筋肉哲学』とやらは、この絶対的な『無意味』という論理の前で、果たして意味を成すのか？",
+        "voice": "L00189"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（彼女はゆっくりと振り返る。その目は、獲物を追い詰める捕食者のように、冷たく光っていた。ここで凡庸な答えを返せば、俺は二度と彼女の世界に上がることはできないだろう）",
+        "voice": "L00190"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "システムのルールが気に食わないなら、自分がルールそのものになればいい。誰にも文句を言わせない、絶対的な『個』に",
+            "score": 2,
+            "next_block": "ending_true"
+          },
+          {
+            "text": "お前のその『悩み』、今すぐベンチプレスで持ち上げてやる。何キロだ？",
+            "score": 1,
+            "next_block": "ending_normal"
+          },
+          {
+            "text": "なるほど、分かった。つまり、最強の筋肉があれば社会など気にせず生きていける。結論は俺と同じだな！",
+            "score": 0,
+            "next_block": "ending_bad"
+          }
+        ]
+      }
+    ],
+    "ending_true": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "システムのルールが気に食わないなら、自分がルールそのものになればいい。誰にも文句を言わせない、絶対的な『個』に",
+        "char_image": "image/syou1.png",
+        "voice": "L00225"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……自分が、ルールに…？",
+        "char_image": "keisukee/keisuke15.png",
+        "voice": "L00226"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "そうだ。社会も、大学も、会社も、すべては他人（システム）が作った土俵だ。その土俵の上で相撲を取るから、ルールの矛盾に腹が立つ。だが、お前自身が、誰にも壊されない、誰にも動かせない、絶対的な『土俵』そのものになったらどうだ？",
+        "voice": "L00227"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……！",
+        "voice": "L00422"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "肉体を極限まで鍛え、精神を極限まで磨き上げる。学問でも、芸術でもいい。誰にも追随を許さない『個』としての価値を確立する。そうなれば、お前が進む場所が、新たなルールになる。社会がお前に合わせるんだ。これ以上に合理的で、痛快なことがあるか？",
+        "voice": "L00229"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "夕日が、俺たちのシルエットを長く伸ばす。",
+        "voice": "L00230"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふっ……ははは！ なるほどな！ そうか、そういうことか！",
+        "char_image": "keisukee/keisuke3.png",
+        "voice": "L00231"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "システムへの参加・不参加という二元論に囚われていたボクが、愚かだった。第三の選択肢…『システムを凌駕する個になる』。クククッ、最高に野蛮で、最高にクレバーな答えだ。気に入ったぞ、ショウ！",
+        "voice": "L00232"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フッ…当然だ",
+        "voice": "L00233"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ああ、まったくもって、お前は面白い。ボクの凝り固まった論理を、いつも木っ端微塵に破壊していく。……決めた。ボクも、ボクだけの『土俵』を作ってみせる。誰にも文句は言わせない",
+        "voice": "L00234"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "だが、一人では退屈だ。ショウ、お前も付き合え。ボクが絶対的な『知の土俵』を完成させる隣で、お前は絶対的な『肉の土俵』を完成させろ。互いに、最強を目指す。悪くないだろう？",
+        "voice": "L00201"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "望むところだ。だが、俺の方が先に頂点に立つ。せいぜい、置いていかれないようについてこい",
+        "voice": "L00202"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "フン。言うじゃないか、この脳筋が",
+        "voice": "L00203"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（悪態をつきながらも、彼女はためらいなく、その小さな手を俺の手に重ねた。その手は、驚くほど力強く、温かかった）",
+        "voice": "L00204"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "【エピローグ】",
+        "background": "haikei/haikei14.jpg",
+        "char_image": "keisukee/keisuke25.png",
+        "voice": "L00407"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（数年後、海外。とある最先端物理学の国際学会。壇上で、流暢な英語でプレゼンテーションを終えたけいすけに、万雷の拍手が送られる。彼女は、すでにその分野で無視できない存在となっていた）",
+        "voice": "L00206"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（学会後のパーティー会場。ドレスアップしたけいすけがシャンパングラスを片手に佇んでいると、屈強な体躯の男が近づいてくる。俺だ）",
+        "background": "haikei/haikei15.jpg",
+        "char_image": "keisukee/keisuke26.png",
+        "voice": "L00207"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "いいプレゼンだったな。だが、まだ頂点には程遠い",
+        "voice": "L00208"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "（今や世界的なフィジカルトレーナーとして名を馳せる俺は、ニヤリと笑う）",
+        "voice": "L00209"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前に言われるまでもない。それに、お前の方こそ、この前の雑誌の表紙、少し腹筋のカットが甘かったぞ",
+        "voice": "L00210"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "あれは増量期だ。次のコンテストで、真の完成形を見せてやる",
+        "voice": "L00211"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "フン。楽しみにしてる",
+        "voice": "L00212"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "非合理な君と過ごした、あの夏。俺たちが見つけたのは、恋とか愛とか、そんな陳腐な言葉じゃなく、『最強の個として、共に立つ』という、ただ一つの答え。筋肉は裏切らない。そして、俺の隣で最強を目指す君も、決して裏切らない。俺たちの戦いは、まだ始まったばかりだ。",
+        "ending": "true",
+        "voice": "L00213"
+      }
+    ],
+    "ending_normal": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（けいすけは俺の答えを聞くと、一瞬きょとんとした顔をし、次の瞬間、こらえきれないというようにフッと噴き出した）",
+        "voice": "L00214"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふっ。本当に、お前はどこまでいっても脳筋だな。ボクの悩みは、質量に換算できない",
+        "char_image": "keisukee/keisuke7.png",
+        "voice": "L00215"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "そうか？なら、俺が担げないほどの重さということか。それは手強いな",
+        "char_image": "image/syou1.png",
+        "voice": "L00216"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "そういう意味じゃない…。まあ、いい",
+        "voice": "L00217"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "感謝はしてやる、ショウ。お前のその、常軌を逸したバカさ加減のおかげで、少しだけ悩み事がどうでもよくなった",
+        "voice": "L00218"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクの答えは、まだ保留だ。夏が終われば、ボクはボクの戦場に戻る。そこで、一人で答えを探さないといけない",
+        "voice": "L00219"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "【エピローグ】",
+        "voice": "L00407"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（最後の花火が終わり、俺たちは解散することになった。けいすけは不意に振り返り、悪戯っぽく笑った）",
+        "background": "haikei/haikei2.jpg",
+        "char_image": "keisukee/keisuke7.png",
+        "voice": "L00238"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "じゃあな、脳筋。……まあ、退屈はしない夏だった",
+        "voice": "L00239"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（そう言い残し、彼女は夜の闇に消えていく。その足取りは、どこか軽やかに見えた）",
+        "voice": "L00240"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "俺は、彼女の抱える複雑な問いに、完璧な答えを出せたわけじゃない。俺にできたのは、隣で自分の哲学を語ることだけだ。それでも、確かに俺の言葉は彼女に届いていた。俺と彼女の世界は違う。それでも、あの夏、確かに俺たちの世界は重なり合ったんだ。非合理で、理屈っぽくて、どうしようもなく魅力的な君と過ごした日々。この夏の思い出は、最高級のホエイプロテインのように甘く、俺の心と身体の、最高の糧になるだろう。",
+        "char_image": "image/syou1.png",
+        "ending": "normal",
+        "voice": "L00241"
+      }
+    ],
+    "ending_normal_from_true": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "システムのルールが気に食わないなら、自分がルールそのものになればいい。誰にも文句を言わせない、絶対的な『個』に",
+        "char_image": "image/syou1.png",
+        "voice": "L00225"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……自分が、ルールに…？",
+        "char_image": "keisukee/keisuke15.png",
+        "voice": "L00226"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "そうだ。社会も、大学も、会社も、すべては他人（システム）が作った土俵だ。その土俵の上で相撲を取るから、ルールの矛盾に腹が立つ。だが、お前自身が、誰にも壊されない、誰にも動かせない、絶対的な『土俵』そのものになったらどうだ？",
+        "voice": "L00227"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……！",
+        "voice": "L00422"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "肉体を極限まで鍛え、精神を極限まで磨き上げる。学問でも、芸術でもいい。誰にも追随を許さない『個』としての価値を確立する。そうなれば、お前が進む場所が、新たなルールになる。社会がお前に合わせるんだ。これ以上に合理的で、痛快なことがあるか？",
+        "voice": "L00229"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "夕日が、俺たちのシルエットを長く伸ばす。",
+        "voice": "L00230"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふっ……ははは！ なるほどな！ そうか、そういうことか！",
+        "char_image": "keisukee/keisuke3.png",
+        "voice": "L00231"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "システムへの参加・不参加という二元論に囚われていたボクが、愚かだった。第三の選択肢…『システムを凌駕する個になる』。クククッ、最高に野蛮で、最高にクレバーな答えだ。気に入ったぞ、ショウ！",
+        "voice": "L00232"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フッ…当然だ",
+        "voice": "L00233"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ああ、まったくもって、お前は面白い。ボクの凝り固まった論理を、いつも木っ端微塵に破壊していく。……決めた。ボクも、ボクだけの『土俵』を作ってみせる。誰にも文句は言わせない",
+        "next_block": "ending_normal_epilogue",
+        "voice": "L00234"
+      }
+    ],
+    "ending_normal_from_bad": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "なるほど、分かった。つまり、最強の筋肉があれば社会など気にせず生きていける。結論は俺と同じだな！",
+        "char_image": "image/syou1.png",
+        "voice": "L00242"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……そうか。やはり、お前には何も届かなかったな",
+        "char_image": "keisukee/keisuke13.png",
+        "next_block": "ending_normal_epilogue",
+        "voice": "L00243"
+      }
+    ],
+    "ending_normal_epilogue": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "【エピローグ】",
+        "voice": "L00407"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（最後の花火が終わり、俺たちは解散することになった。けいすけは不意に振り返り、悪戯っぽく笑った）",
+        "background": "haikei/haikei2.jpg",
+        "char_image": "keisukee/keisuke7.png",
+        "voice": "L00238"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "じゃあな、脳筋。……まあ、退屈はしない夏だった",
+        "voice": "L00239"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（そう言い残し、彼女は夜の闇に消えていく。その足取りは、どこか軽やかに見えた）",
+        "voice": "L00240"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "俺は、彼女の抱える複雑な問いに、完璧な答えを出せたわけじゃない。俺にできたのは、隣で自分の哲学を語ることだけだ。それでも、確かに俺の言葉は彼女に届いていた。俺と彼女の世界は違う。それでも、あの夏、確かに俺たちの世界は重なり合ったんだ。非合理で、理屈っぽくて、どうしようもなく魅力的な君と過ごした日々。この夏の思い出は、最高級のホエイプロテインのように甘く、俺の心と身体の、最高の糧になるだろう。",
+        "char_image": "image/syou1.png",
+        "ending": "normal",
+        "voice": "L00241"
+      }
+    ],
+    "ending_bad": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "なるほど、分かった。つまり、最強の筋肉があれば社会など気にせず生きていける。結論は俺と同じだな！",
+        "char_image": "image/syou1.png",
+        "voice": "L00242"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……そうか。やはり、お前には何も届かなかったな",
+        "char_image": "keisukee/keisuke13.png",
+        "voice": "L00243"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "え…？",
+        "voice": "L00364"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクは、ほんの少しだけ期待していたのかもしれない。とれとれ市場で、お前が馬鹿正直に拳を叩きつけた時…。ボクの論理を破壊するような、突拍子もない『何か』をお前が持っているんじゃないかと",
+        "voice": "L00245"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "だが、お前はただの自己満足の塊だった。ボクの言葉を、自分の陳腐な哲学に当てはめただけだ。ボクの話など、最初から聞いてすらいなかったんだな",
+        "voice": "L00246"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "ち、違う！ 俺は…！",
+        "voice": "L00247"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "もういい。失せろ。二度とボクの前に現れるな",
+        "voice": "L00248"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "【エピローグ】",
+        "voice": "L00407"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（数日後、白浜駅のホーム。俺は友人しょうに短い別れを告げ、逃げるように電車に乗り込んだ。車窓から見えるきらめく海が、やけに目に染みる）",
+        "background": "haikei/haikei1.jpg",
+        "char_image": "image/syou2.png",
+        "voice": "L00250"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（ショウ）",
+        "text": "俺の夏は、終わった。彼女の心に刻んだのは、信頼でも、好意でもなく、ただ深い失望の傷跡だけ。最強の肉体も、研ぎ澄ました筋肉哲学も、凍てついた心を溶かすことはできなかった。白浜の思い出は、ただひたすらに、苦い。",
+        "ending": "bad",
+        "voice": "L00251"
+      }
+    ]
+  },
+  "しょう編": {
+    "act1": [
+      {
+        "type": "dialogue",
+        "character": "ナレーション（しょう）",
+        "text": "俺の夏は、いつもと同じ白浜の夏。アニメの聖地巡礼をして、溜まったゲームを消化して…なんて思ってたら、都会から友人のショウが遊びに来ることになった。待ち合わせ場所のビーチに着いたけど、あいつ、まだ来てないみたいだな。",
+        "background": "haikei/haikei1.jpg",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00252"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "うーん、暇だなあ…。そうだ、砂のお城でも作ろうかな",
+        "voice": "L00253"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "（よし、いい感じに天守閣ができてきたぞ！ まるで、空に浮かぶあの城みたいだ…！）",
+        "voice": "L00254"
+      },
+      {
+        "type": "dialogue",
+        "character": "？？？",
+        "text": "……おい",
+        "char_image": "keisukee/keisuke5.png",
+        "voice": "L00255"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ひゃ、ひゃい！？",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00256"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "単刀直入に聞く。その行為に、何の意味がある？",
+        "char_image": "keisukee/keisuke5.png",
+        "voice": "L00257"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "え？ こ、行為…？ 意味…？",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00258"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "炎天下、貴重な時間と体力を消費して、数分後には波に攫われるか、誰かに踏み潰される運命の造形物を作る。その行動の先に、どんなリターンを想定しているんだ？",
+        "char_image": "keisukee/keisuke5.png",
+        "voice": "L00259"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "え、ええと、その……た、楽しいから、です…",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00260"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "楽しい、か。極めて主観的で、再現性のない評価基準だな。その感情に、どんな価値が？",
+        "char_image": "keisukee/keisuke5.png",
+        "voice": "L00261"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "か、価値…？",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00262"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "そうだ。ボクは、物事を常にコストとリターンで判断する。感情や期待といったノイズは、正確な判断を鈍らせるバグでしかないんだ",
+        "char_image": "keisukee/keisuke5.png",
+        "voice": "L00263"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "……そんなこと、ないです",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00264"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ほう？",
+        "char_image": "keisukee/keisuke5.png",
+        "voice": "L00265"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "……好きっていう気持ちは、バグなんかじゃない。利益とか、そういうのじゃなくて…心が、あったかくなるんです。作ってると、すごくワクワクする。それだけで、俺は十分嬉しい。それじゃ、ダメなんですか？",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00266"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……心が、温かくなる…か。非科学的で、全く理解できない現象だな",
+        "char_image": "keisukee/keisuke5.png",
+        "voice": "L00267"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なあ、お前。ボクは今、一つの問いに直面している",
+        "voice": "L00268"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "と、問い…？",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00269"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "そうだ。人間社会という、この巨大で、バグだらけで、非効率なシステム。ボクの周囲の人間は、大学進学だの就職だの、何の疑いもなくそのシステムに組み込まれていくことを『正しい』と信じている。だが、ボクにはそれが、集団的な思考停止にしか見えない",
+        "char_image": "keisukee/keisuke5.png",
+        "voice": "L00270"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "そもそも、このゲームに参加する価値はあるのか？ ――この問いに、誰も答えられない。そんなボクに、お前の言う『感情』とやらは、一体どんな有効な解を示してくれるんだ？",
+        "voice": "L00271"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "ごめん、難しいことは分からない。でも、君がそんな顔してたら、俺も胸が痛い",
+            "score": 2,
+            "next_block": "act1_choice_2pt"
+          },
+          {
+            "text": "とりあえず、俺のオススメのアニメでも見れば元気出るよ！",
+            "score": 1,
+            "next_block": "act1_choice_1pt"
+          },
+          {
+            "text": "ボクは特別、みたいな顔して悩んでるけど、みんな同じだよ",
+            "score": 0,
+            "next_block": "act1_choice_0pt"
+          }
+        ]
+      }
+    ],
+    "act1_choice_2pt": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ごめん、難しいことは分からない。でも、君がそんな顔してたら、俺も胸が痛い",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00272"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……は？",
+        "char_image": "keisukee/keisuke6.png",
+        "voice": "L00273"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "だって、すごく辛そうだから。君がなんで悩んでるのか、その理屈とかは全然分からないけど…でも、目の前の人が悲しい顔をしてるのに、平気でいられるほど、俺は器用じゃないから…",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00274"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "これだって、別に誰かに褒められたいわけじゃない。ただ、作ってると楽しい。君が今、そんな風に全然楽しそうじゃないのが、俺は、嫌なんだ",
+        "voice": "L00275"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……フッ。お前は本当に、コスト計算という概念がないんだな。他人の感情に自分のリソースを割くなんて、投資効率が悪すぎる",
+        "char_image": "keisukee/keisuke6.png",
+        "voice": "L00276"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "いいだろう。お前の言うその『感情』とやらが、一体どんなものなのか。もう少し、観察させてもらうことにする",
+        "voice": "L00277"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "明日、アドベンチャーワールドに行くぞ。ボクの感情が、あの管理された自然の中でどう動くか。その観測に付き合え",
+        "char_image": "keisukee/keisuke4.png",
+        "voice": "L00278"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "えっ！？ アドベンチャーワールド！？ い、いいの！？",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00279"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ（遠くから）",
+        "text": "おーい、しょう！ 待たせたな！",
+        "char_image": "image/syou1.png",
+        "voice": "L00290"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "あ、ショウ！ こっちは、ええと、けいすけちゃん！ 今、知り合ったんだ！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00281"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふぅん。こっちは、筋肉思考のサンプルか。ちょうどいい。明日、お前も来い。対照サンプルが多い方が、観察は捗る",
+        "char_image": "keisukee/keisuke7.png",
+        "voice": "L00282"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "は？ 明日？ 何の話だ？",
+        "char_image": "image/syou1.png",
+        "voice": "L00283"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（しょう）",
+        "text": "（わけがわからないまま、俺たちの白浜での夏は、賑やかに幕を開けたのだった）",
+        "next_act": "act2",
+        "voice": "L00284"
+      }
+    ],
+    "act1_choice_1pt": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "とりあえず、俺のオススメのアニメでも見れば元気出るよ！ 『ヴァイオレット・エヴァーガーデン』とか、絶対泣けるから！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00285"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "…………はぁ",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00286"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なるほどな。お前の問題解決能力は、その程度のものか。他人が作った虚構の物語に感情移入することで、現実から逃避しろ、と。短絡的にもほどがある",
+        "voice": "L00287"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "え、あ、いや、そういうわけじゃなくて…！ いい話だから…！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00288"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "話にならない。お前のその薄っぺらい感情論では、ボクの心の壁はミリも動かないな",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00289"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ（遠くから）",
+        "text": "おーい、しょう！ 待たせたな！",
+        "char_image": "image/syou1.png",
+        "voice": "L00290"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "あ、ショウ…！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00291"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "なんだ、しょう。お前、このお嬢さんを泣かせたのか？",
+        "char_image": "image/syou1.png",
+        "voice": "L00292"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "いや。この男の底の浅さに、呆れていただけだ",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00293"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふん。まあ、いい。純粋感情型のサンプルがこの程度なら、次は筋肉思考型のサンプルを観察してみるか",
+        "voice": "L00294"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "明日、アドベンチャーワールドに来い。お前たち二人という予測不能な変数が、あの計算された環境でどんなエラーを引き起こすか、じっくり見物してやる",
+        "voice": "L00295"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ええっ！？",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00296"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（しょう）",
+        "text": "（それは、ほとんど罰ゲームの宣告のようだった。だが、彼女ともう一度話せるチャンスができたことに、俺は少しだけ安堵していた）",
+        "next_act": "act2",
+        "voice": "L00297"
+      }
+    ],
+    "act1_choice_0pt": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ボクは特別、みたいな顔して悩んでるけど、みんな同じだよ。俺だって、色々あるし…",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00298"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……今、なんと言った？",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00299"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "え…？",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00364"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクの葛藤を、お前や、その他大勢の凡庸な悩みと一緒にするな。これ以上ない侮辱だ。お前のその無神経な共感は、反吐が出る",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00301"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ああ、そうか。お前は、そういう人間なんだな。だから、精神的に不安定な人間に依存される。相手の痛みを理解せず、ただ安っぽい言葉で寄り添ったつもりになる。最低だ",
+        "voice": "L00302"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ（遠くから）",
+        "text": "おーい、しょう！ って、なんだその雰囲気は…",
+        "char_image": "image/syou1.png",
+        "voice": "L00303"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前の友人は、デリカシーの欠片もないゴミのようだぞ",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00304"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ま、待ってくれ！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00305"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ごめんなさい！ 俺、本当に、馬鹿なことを言いました！ どうか、どうかもう一度だけ、チャンスをください！ お願いします！",
+        "voice": "L00306"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……面白い。そこまでして、ボクの観察対象でいたいか",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00307"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "いいだろう。明日、アドベンチャーワールドに来い。そこで、お前の存在価値を、改めてボクに証明してみせろ。もし、少しでもボクを失望させたら…",
+        "voice": "L00308"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（しょう）",
+        "text": "（その先の言葉は、言うまでもなかった。俺は、崖っぷちに立たされたのだった）",
+        "next_act": "act2",
+        "voice": "L00309"
+      }
+    ],
+    "act2": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "よし！ まずはケニア号に乗って、それから海の動物たちに会いに行って…",
+        "background": "haikei/haikei4.jpg",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00310"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ふぅん。ここのブランド価値は、長年ジャイアントパンダというキラーコンテンツに大きく依存してきたはずだ。その主力が不在の今、ゲストにどんな価値を提供できるのか。ボクは、その手腕を見物しに来た",
+        "char_image": "keisukee/keisuke9.png",
+        "voice": "L00311"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "……けいすけちゃん、それ…本気で言ってるの？",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00312"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "事実を分析しているだけだ。感傷的な意見は求めていない",
+        "voice": "L00313"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "――和歌山をバカにするなぁ〜〜〜！！",
+        "char_image": "image/wakayama4.png",
+        "voice": "L00314"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なっ…！？ 何だ、いきなり大声出して…！",
+        "char_image": "keisukee/keisuke14.png",
+        "voice": "L00315"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "アドベンチャーワールドを！ 俺たちの！ 和歌山の宝を、パンダだけの場所みたいに言わないでくれッ！",
+        "voice": "L00316"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "べ、別にそういうわけじゃ…",
+        "char_image": "keisukee/keisuke8.png",
+        "voice": "L00317"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "じゃあ聞くけど、マリンライブのイルカたちのハイジャンプを見たことある！？ トレーナーさんとの絆！ あれはもうただのショーじゃない、種族を超えた心と心の対話なんだ！ ラストは感動してマジで泣けるんだから！",
+        "voice": "L00318"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "ほう、イルカの身体能力か。興味深いな",
+        "char_image": "image/syou1.png",
+        "voice": "L00319"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "サファリワールドを闊歩するライオンの威厳は！？ アフリカゾウの迫力は！？ 生きた野生の王国がここにあるんだ！ それに！ それに！ まだまだいるんだ！ 最強にかわいい奴らが！ よちよち歩く皇帝ペンギンのヒナとか！ 威嚇する姿すら愛らしいレッサーパンダとか！",
+        "char_image": "image/wakayama4.png",
+        "voice": "L00320"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "……はぁっ、はぁっ……。パンダがいなくたって、ここにはたくさんの『好き』が詰まってるんだ！ それを体験する前から『価値がない』なんて、そんな悲しいこと言わないでくれよ……！",
+        "voice": "L00321"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "…………",
+        "char_image": "keisukee/keisuke8.png",
+        "voice": "L00322"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……分かった。分かったから、そんな犬みたいな目で見ないでくれ",
+        "voice": "L00323"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "え……？",
+        "char_image": "image/wakayama4.png",
+        "voice": "L00324"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "そこまで言うなら、お前の言う『価値』とやらを、この目で確かめてやろうじゃないか。案内しろ、しょう。お前が涙を流すほど感動するという、イルカのショーとやらに",
+        "char_image": "keisukee/keisuke11.png",
+        "voice": "L00325"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "うん！ 任せて！ 絶対に、絶対に楽しませるから！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00326"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（そして、俺たちはマリンライブの会場にいた。ショーが始まり、イルカたちの見事なジャンプや、トレーナーとの息の合ったパフォーマンスに、会場中が沸き立った）",
+        "background": "haikei/haikei7.jpg",
+        "char_image": "keisukee/keisuke9.png",
+        "voice": "L00327"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "ほう…イルカの背筋力は相当なものだな。素晴らしい跳躍だ",
+        "char_image": "image/syou1.png",
+        "voice": "L00328"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "うっ…すごい…！ トレーナーさんとイルカさんの絆…！ 種族を超えた愛だよ、これは…！",
+        "char_image": "image/wakayama4.png",
+        "voice": "L00329"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……驚いたな。あれだけの高度な連携を、言語を介さずに実現している。条件反射や刷り込みだけでは説明がつかない。彼らの間には、ボクの理解を超えた、何らかのコミュニケーションプロトコルが存在する…",
+        "char_image": "keisukee/keisuke4.png",
+        "voice": "L00330"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（ショーのフィナーレで、イルカたちが一斉に大ジャンプを決めた。会場から、割れんばかりの拍手と歓声が上がる。俺は、感動でボロボロ泣いていた。ふと隣を見ると、けいすけがじっとステージを見つめている。その横顔は、いつになく真剣だった）",
+        "char_image": "image/iruka.png",
+        "voice": "L00331"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……なあ、しょう",
+        "voice": "L00343"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "うっ…ぐすっ…な、なに？ けいすけちゃん",
+        "char_image": "image/wakayama4.png",
+        "voice": "L00333"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前は、なぜ泣いているんだ？ このショーのどこに、それほどまでにお前の感情を揺さぶる要素があった？ 論理的に説明してみろ",
+        "char_image": "keisukee/keisuke4.png",
+        "voice": "L00334"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "理屈じゃないんだ！ すごいものをすごいって感じて、心が震える。ただそれだけだよ！",
+            "score": 2,
+            "next_block": "act2_choice_2pt"
+          },
+          {
+            "text": "ええっと…イルカたちが頑張ってる姿と、トレーナーさんの笑顔が…なんか、こう…グッときて…",
+            "score": 1,
+            "next_block": "act2_choice_1pt"
+          },
+          {
+            "text": "大丈夫！ 君もいつか、こういうので泣けるようになるよ！",
+            "score": 0,
+            "next_block": "act2_choice_0pt"
+          }
+        ]
+      }
+    ],
+    "act2_choice_2pt": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "理屈じゃないんだ！ すごいものをすごいって感じて、心が震える。ただそれだけだよ！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00335"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……そうか。『説明できない』。それが、お前の答えか",
+        "char_image": "keisukee/keisuke4.png",
+        "voice": "L00336"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "う、うん…ごめん、うまく言えなくて…",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00337"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "いや、いい。それが一番、腑に落ちた",
+        "voice": "L00338"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクは今まで、理解できないものを分解し、分析し、自分の知識体系に組み込むことだけを考えてきた。だが、お前は違う。理解できないものを、理解できないまま、丸ごと受け入れて味わっている。……なるほどな。そういうアプローチもあるのか",
+        "voice": "L00339"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（ショーが終わった後も、俺たちは園内を見て回った。けいすけは時折、動物を見ては分析的なことを口にするが、以前のような刺々しさはなく、むしろ俺の素直な感想を面白そうに聞いているようだった）",
+        "voice": "L00340"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（そして、閉園時間。俺たちはアドベンチャーワールドを後にした）",
+        "voice": "L00341"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（ショウが「のど乾いた！飲み物買ってくる！」と言って走り去り、俺とけいすけは二人きりで、オレンジ色に染まる砂浜に座っていた。寄せては返す波の音が、心地いい）",
+        "background": "haikei/haikei8.jpg",
+        "char_image": "keisukee/keisuke4.png",
+        "voice": "L00342"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……なあ、しょう",
+        "voice": "L00343"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "なに？ けいすけちゃん",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00344"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "今日、お前の言う『感情』の洪水に、一日中晒されてみた。……疲れたが、悪くなかった",
+        "char_image": "keisukee/keisuke18.png",
+        "voice": "L00345"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（彼女は、膝を抱えながら、遠くの水平線を見つめていた）",
+        "voice": "L00346"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクが、社会というシステムを『つまらない』と感じるのも、結局は感情なのかもしれないな。楽しい、悲しい、好き、嫌い…そういうノイズを切り捨ててきたつもりだったが、本当は、ただ蓋をしていただけなのかも…",
+        "voice": "L00347"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（彼女は自嘲するように笑い、そして俺の方を向いた。その瞳は、助けを求めるように、少しだけ揺れていた。彼女は今、自分の信じてきたものの土台が揺らぎ始めていることを、俺にだけ打ち明けようとしていた）",
+        "char_image": "keisukee/keisuke16.png",
+        "branch_act3": true,
+        "voice": "L00348"
+      }
+    ],
+    "act2_choice_1pt": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ええっと…イルカたちが頑張ってる姿と、トレーナーさんの笑顔が…なんか、こう…グッときて…",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00349"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……なるほど。感動の構造を言語化できない、か。まあ、お前にそれを求めるのが間違いだったな",
+        "char_image": "keisukee/keisuke8.png",
+        "voice": "L00350"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ご、ごめん…",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00351"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "別に謝る必要はない。ボクの期待値設定が間違っていただけだ",
+        "voice": "L00352"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（それきり、彼女は黙り込んでしまった。俺たちの間に、少し気まずい空気が流れる）",
+        "voice": "L00353"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（その後も園内を回ったが、けいすけは以前より口数が減ってしまった。時折ショウの筋肉談義には相槌を打つが、俺の方にはあまり視線を向けない。明らかに、俺への興味が薄れてしまったのが分かる）",
+        "voice": "L00354"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（閉園時間。俺たちはアドベンチャーワールドを後にした）",
+        "voice": "L00355"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（3人で並んで砂浜を歩く。ショウが気を遣ってか、色々と話題を振るが、会話はどこか弾まない）",
+        "background": "haikei/haikei8.jpg",
+        "char_image": "keisukee/keisuke9.png",
+        "voice": "L00356"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "（どうしよう… 完全にがっかりさせちゃった…。このままじゃ、ダメだ…）",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00357"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ボクは、ここで失礼する。今日はそれなりに楽しめた。礼を言う",
+        "char_image": "keisukee/keisuke8.png",
+        "voice": "L00358"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "あ、うん…！ こちらこそ、付き合ってくれてありがとう！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00359"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "別に。ボクのデータ収集に付き合わせただけだ。じゃあな",
+        "voice": "L00360"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（彼女は最低限の挨拶を済ませると、一人で歩き去っていった。その背中は、やはりどこか壁を感じさせるものだったが、完全な拒絶ではなかった。まだ、チャンスはあるかもしれない）",
+        "branch_act3": true,
+        "voice": "L00361"
+      }
+    ],
+    "act2_choice_0pt": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "大丈夫！ 君もいつか、こういうので泣けるようになるよ！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00362"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……なんだと？",
+        "background": "haikei/haikei7.jpg",
+        "char_image": "keisukee/keisuke13.png",
+        "voice": "L00363"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "え…？",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00364"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前は今、ボクの感受性が、お前より劣っていると断じたわけか。そして、お前と同じレベルまで『成長』させてやると。…そう言ったんだな？",
+        "voice": "L00365"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ち、違う！ そういう意味じゃなくて！",
+        "voice": "L00366"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "黙れ。お前のその無自覚な傲慢さが、一番質が悪い。善意の皮を被った、ただの侮辱だ。……心底、反吐が出る",
+        "voice": "L00367"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "おい、待て。こいつの言動に深い意味はない。悪気がないのは俺が保証する",
+        "char_image": "image/syou1.png",
+        "voice": "L00368"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……その保証に、何の価値が？",
+        "voice": "L00369"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ごめんなさい…！ 本当に、ごめんなさい…！ 俺、人の気持ちを考えるのが、すごく下手なんだ…。でも、君を馬鹿にするつもりなんて、本当に、これっぽっちもなかったんだ…！",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00370"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……もういい。分かった。お前の問題は、知能の有無ではない。共感性の欠如と、過剰な自己投影だ。だから、相手の感情を無視して、自分の『良かれ』を押し付ける",
+        "voice": "L00371"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（アドベンチャーワールドからの帰り道、バスの中はずっと重い空気だった。バスを降りた後、ショウが気を利かせて「俺、飲み物買ってくる」とコンビニへ向かい、俺とけいすけが二人きりになった）",
+        "background": "haikei/haikei18.jpg",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00372"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "……今日は、本当にごめん",
+        "voice": "L00373"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……謝罪はもういい。それより、お前は少し、自分と他人の境界線を学ぶべきだ。でないと、いつか本当に取り返しのつかないことになるぞ。お前のその性質は、弱った人間を惹きつけ、そして破滅させる",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00374"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクは帰る。じゃあな",
+        "voice": "L00375"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（彼女はそう言って去っていった。俺は、その背中を見送りながら、自分の不器用さをただただ噛みしめるしかなかった。でも、まだ終わりじゃない。きっと…）",
+        "branch_act3": true,
+        "voice": "L00376"
+      }
+    ],
+    "act3_high": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（アドベンチャーワールドから数日後。俺のスマホに、けいすけから『白良浜。北側の岩場。話がある』という、短いメッセージが届いた。俺は急いで指定された場所へ向かう）",
+        "background": "haikei/haikei2.jpg",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00377"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "けいすけちゃん、どうしたの？ こんな時間に",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00378"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……来たか。少し、お前の『感情論』を聞きたくなっただけだ",
+        "char_image": "keisukee/keisuke23.png",
+        "voice": "L00379"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "あの日以来、ずっと考えていた。ボクが切り捨ててきた『感情』というノイズについて。……そして、少しだけ、認めたくなかった結論にたどり着いた",
+        "voice": "L00380"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクが社会システムを『つまらない』と感じるのも、結局は感情だ。そして、人と深く関わることを『非効率だ』と避けてきたのも…本当は、ただ傷つくのが『怖い』だけだったのかもしれないな",
+        "voice": "L00381"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なあ、しょう。お前はいつも、自分の『好き』や『悲しい』に正直だ。そんなお前から見て、今のボクは、どう見える？ お前のその、何のフィルターもかかっていない目で、ボクに答えをくれないか？",
+        "voice": "L00382"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "まともじゃなくていい！ 俺は、君が君のままで、笑っていてくれたら、それでいい！",
+            "score": 2,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "きっと、お互いに足りないものを、補い合っていけばいいんじゃないかな",
+            "score": 1,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "ごめん…やっぱり、俺には分からないよ…",
+            "score": 0,
+            "next_block": "final_choice"
+          }
+        ]
+      }
+    ],
+    "final_choice": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "",
+        "branch_ending": true,
+        "voice": "L00348"
+      }
+    ],
+    "act3_mid": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（あれから数日。俺は、ショウと一緒に夜の白浜を散歩していた。アドベンチャーワールドでの一件以来、けいすけちゃんとは連絡を取っていない）",
+        "background": "haikei/haikei2.jpg",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00384"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "おい、しょう。いつまでウジウジしてるんだ。連絡したいなら、さっさとしろ",
+        "char_image": "image/syou1.png",
+        "voice": "L00385"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "だ、だって、なんて送ればいいか…",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00386"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……なんだ、お前たちか",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00387"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "け、けいすけちゃん！ こ、こんばんは！",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00388"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "よう。こいつがお前に何か言いたいことがあるらしい。俺はあっちでプロテインでも飲んでるから、あとは二人で話せ",
+        "char_image": "image/syou1.png",
+        "voice": "L00389"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……まあ、いい。ちょうど、お前に聞きたいことがあった",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00390"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクは、自分の感情をノイズだと切り捨ててきた。だが、お前を見ていると、その『ノイズ』こそが、人間を動かす原動力なんじゃないかと思えてくる。……だが、それはあまりに不安定で、危険なエネルギーだ",
+        "voice": "L00391"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なあ、しょう。お前は、その制御不能な感情に振り回されて、後悔したことはないのか？ その感情論の、限界とやらを教えてくれ",
+        "voice": "L00392"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "まともじゃなくていい！ 俺は、君が君のままで、笑っていてくれたら、それでいい！",
+            "score": 2,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "きっと、お互いに足りないものを、補い合っていけばいいんじゃないかな",
+            "score": 1,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "ごめん…やっぱり、俺には分からないよ…",
+            "score": 0,
+            "next_block": "final_choice"
+          }
+        ]
+      }
+    ],
+    "act3_low": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（あの日以来、けいすけからの連絡はなかった。俺は、彼女に言われた言葉をずっと引きずっていた。あの日、俺をかばってくれたショウに相談すると、「なら、もう一度ぶつかってみろ。今度は、逃げるな」と背中を押された）",
+        "background": "haikei/haikei1.jpg",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00393"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（俺は、白良浜のビーチで彼女を待つことにした。数時間後、けいすけが一人で現れた）",
+        "voice": "L00394"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……何の用だ？ ボクはお前と話すことはない、と言ったはずだが",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00395"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ご、ごめん！ でも、どうしても、もう一度だけ、話がしたくて…！",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00396"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……お前の問題点は、共感性の欠如と、過剰な自己投影だと言ったはずだ。それは、治ったのか？",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00397"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "わ、分からない…。でも、ただ、もう一度、君とちゃんと向き合いたいんだ！",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00398"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "いいだろう。なら、これが最後の問いだ。ボクは、感情を切り捨てて生きてきた。お前は、感情のままに生きて、他人を傷つけた。どちらも、欠陥品だ",
+        "char_image": "keisukee/keisuke21.png",
+        "voice": "L00399"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "欠陥品であるボクたちが、この先、どうすれば『まとも』に生きていける？ お前の感情論で、この問いに答えてみせろ。これが、お前に与える最後のチャンスだ",
+        "voice": "L00400"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "まともじゃなくていい！ 俺は、君が君のままで、笑っていてくれたら、それでいい！",
+            "score": 2,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "きっと、お互いに足りないものを、補い合っていけばいいんじゃないかな",
+            "score": 1,
+            "next_block": "final_choice"
+          },
+          {
+            "text": "ごめん…やっぱり、俺には分からないよ…",
+            "score": 0,
+            "next_block": "final_choice"
+          }
+        ]
+      }
+    ],
+    "ending_true": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "まともじゃなくていい！ 俺は、君が君のままで、笑っていてくれたら、それでいい！",
+        "char_image": "image/wakayama4.png",
+        "voice": "L00421"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なっ……！",
+        "char_image": "keisukee/keisuke20.png",
+        "voice": "L00402"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "君が理屈っぽくたって、ひねくれてたって、それで君が苦しいなら、俺がそばで泣いてやる！ 君が笑ってくれるなら、俺はなんだってする！ 君が君でいることを、俺が全部、肯定してやる！",
+        "voice": "L00403"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ばかだな、お前は…。本当に、どうしようもない、お人好しの、大馬鹿だ…",
+        "char_image": "keisukee/keisuke12.png",
+        "voice": "L00404"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……分かった。分かったよ、しょう。ボクの負けだ。こんな非合理な肯定の仕方は、反則だ…",
+        "voice": "L00405"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "責任、取れよな。ボクのこと、一生肯定し続けるって言ったんだからな…",
+        "char_image": "keisukee/keisuke2.png",
+        "voice": "L00406"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "【エピローグ】",
+        "background": "haikei/haikei13.jpg",
+        "char_image": "keisukee/keisuke24.png",
+        "voice": "L00407"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "…ああ、もう。この論文、意味が分からない。全部非効率だ",
+        "voice": "L00408"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "大丈夫だよ、けいすけちゃんなら。はい、ココア。糖分補給して",
+        "voice": "L00409"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "フン。子供扱いするな。……でも、まあ、サンキュ",
+        "voice": "L00410"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（しょう）",
+        "text": "非合理な君と過ごした、あの夏。俺が見つけた答えは、とてもシンプルだった。理屈なんていらない。ただ、君が好き。その気持ちだけで、凍てついた世界も、こんなに温かくなるんだ。",
+        "ending": "true",
+        "voice": "L00411"
+      }
+    ],
+    "ending_normal": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "きっと、お互いに足りないものを、補い合っていけばいいんじゃないかな",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00412"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……月並みだが、悪くない答えだ。お前なりに、考えたんだな",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00413"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "うん…",
+        "voice": "L00414"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "だが、それはあくまで理想論だ。現実はそう単純じゃない",
+        "voice": "L00415"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ボクの答えは、まだ見つからない。この夏が終われば、ボクはまた、一人で考え続けることになるだろう",
+        "voice": "L00416"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "けいすけちゃん…",
+        "voice": "L00437"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "だが、お前という『感情』のサンプルに会えたことは、無駄ではなかった。礼を言う、しょう",
+        "voice": "L00418"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "【エピローグ】",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00407"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（しょう）",
+        "text": "俺は、彼女の隣に立つことはできなかった。彼女の抱える深い問いに、俺はありきたりな答えしか返せなかったから。でも、後悔はしていない。あの夏、俺は確かに、自分の全てで彼女と向き合った。いつかまた会えたなら、その時こそ。そんな淡い期待を胸に、俺の夏は静かに終わっていく。",
+        "ending": "normal",
+        "voice": "L00434"
+      }
+    ],
+    "ending_normal_from_true": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "まともじゃなくていい！ 俺は、君が君のままで、笑っていてくれたら、それでいい！",
+        "char_image": "image/wakayama4.png",
+        "voice": "L00421"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……！",
+        "char_image": "keisukee/keisuke15.png",
+        "voice": "L00422"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前…なんて、馬鹿なことを…！",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00423"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "馬鹿で結構！ 俺はただ、けいすけちゃんに笑ってもらいたいんだ！",
+        "char_image": "image/wakayama4.png",
+        "voice": "L00424"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ふっ……ふ、ふふっ…",
+        "char_image": "keisukee/keisuke7.png",
+        "voice": "L00425"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "あ…笑ってくれた…",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00426"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前は、本当に…馬鹿だな。だが、その馬鹿さ加減が、少しだけ…心地よい",
+        "char_image": "keisukee/keisuke17.png",
+        "next_block": "ending_normal_epilogue",
+        "voice": "L00427"
+      }
+    ],
+    "ending_normal_from_bad": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ごめん…やっぱり、俺には分からないよ…",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00435"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……そうか。それが、お前の限界か",
+        "char_image": "keisukee/keisuke22.png",
+        "next_block": "ending_normal_epilogue",
+        "voice": "L00436"
+      }
+    ],
+    "ending_normal_epilogue": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "【エピローグ】",
+        "voice": "L00407"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（夏が終わり、俺たちはそれぞれの日常に戻った。けいすけちゃんからの連絡は、それから途絶えがちになった）",
+        "background": "haikei/haikei1.jpg",
+        "char_image": "image/wakayama2.png",
+        "voice": "L00431"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ（メール）",
+        "text": "しょう。この前は、ありがとう。お前のその純粋な『感情』に触れて、少しだけ、ボクの中の何かが変わった気がする",
+        "voice": "L00432"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ（メール）",
+        "text": "まだ答えは見つからないが、お前という『感情のサンプル』を知れたことは、無駄ではなかった。また会おう",
+        "voice": "L00433"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（しょう）",
+        "text": "俺は、彼女の隣に立つことはできなかった。彼女の抱える深い問いに、俺はありきたりな答えしか返せなかったから。でも、後悔はしていない。あの夏、俺は確かに、自分の全てで彼女と向き合った。いつかまた会えたなら、その時こそ。そんな淡い期待を胸に、俺の夏は静かに終わっていく。",
+        "char_image": "image/wakayama1.png",
+        "ending": "normal",
+        "voice": "L00434"
+      }
+    ],
+    "ending_bad": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ごめん…やっぱり、俺には分からないよ…",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00435"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……そうか。それが、お前の限界か",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00436"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "けいすけちゃん…",
+        "voice": "L00437"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "結局、お前は何も変われなかったな。自分の感情を振り回すだけで、他人の痛みに向き合う覚悟も、答えを出すための思考も、何もかもが足りていない",
+        "voice": "L00438"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "お前に与えた時間は、全て無駄だった。もう、いい",
+        "voice": "L00439"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "【エピローグ】",
+        "char_image": "image/wakayama3.png",
+        "voice": "L00407"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（しょう）",
+        "text": "俺の夏は、終わった。彼女の心を救うどころか、その深い孤独に触れることすらできなかった。優しいだけじゃ、ダメなんだ。好き、という気持ちだけじゃ、何も守れないんだ。そのことを、俺は痛いほど思い知らされた。白浜の夜空は、いつもと同じなのに、もう輝いては見えなかった。",
+        "ending": "bad",
+        "voice": "L00441"
+      }
+    ]
+  },
+  "隠しシナリオ": {
+    "main": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（本編から一年後の夏。けいすけは、白浜の高級旅館の、窓から海が一望できる広い和室で、優雅に読書をしていた。そこに、二人の男が正座している）",
+        "background": "haikei/haikei11.jpg",
+        "char_image": "keisukee/keisuke27.png",
+        "voice": "L00442"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……それで？ 言い分はそれだけか？ しょう、ショウ",
+        "voice": "L00443"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "は、はい！ けいすけちゃん…いえ、けいすけ様！ 俺はただ、この夏もけいすけ様に最高の思い出を…と思いまして…！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00444"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フン…！ 俺も同じだ、けいすけ様！ けいすけ様の知的活動をサポートし、心身ともに最高のコンディションを維持していただくため、馳せ参じたまで！",
+        "char_image": "image/syou1.png",
+        "voice": "L00445"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（事の発端は一時間前。都会から特急くろしおに乗ってやってきたショウと、地元の利を活かして出迎えた俺は、けいすけが滞在する旅館の前で、まったく同じタイミングで鉢合わせたのだ。互いの手に、けいすけへのサプライズプレゼントがあったことから、醜いマウント合戦が勃発した）",
+        "char_image": "image/2syou.png",
+        "voice": "L00446"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "『俺の方がけいすけ様のことを分かっている！ 地元民の俺に勝てると思うな！』",
+        "voice": "L00447"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "『フン、情報戦なら都会育ちの俺が有利だ！ 貴様のその郷土愛は思考停止の表れだ！』",
+        "voice": "L00448"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なるほどな。つまり、お前たち二人は、ボクという唯一無二の存在を巡って、互いに所有権を主張しあうという、極めて非生産的で、原始的な縄張り争いをしていた、と。そういうことで合っているか？",
+        "char_image": "keisukee/keisuke27.png",
+        "voice": "L00449"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう＆ショウ",
+        "text": "「「滅相もございません！！」」",
+        "char_image": "image/2syou2.png",
+        "voice": [
+          "L00450-1",
+          "L00450-2"
+        ]
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……いいだろう。お前たちのその有り余る忠誠心、無駄にするのも非効率だ。このボクが、有効活用してやる",
+        "char_image": "keisukee/keisuke27.png",
+        "voice": "L00451"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "本日をもって、お前たち二人を、ボクの『僕（しもべ）』と認める。異論は？",
+        "voice": "L00452"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう＆ショウ",
+        "text": "「「ははーっ！！」」",
+        "char_image": "image/2syou2.png",
+        "voice": "L00453"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "よろしい。では、僕（しもべ）たちに最初の勅命だ。――この夏、ボクを最高に楽しませてみせろ。もちろん、お前たちのくだらない私闘でボクの手を煩わせるようなことがあれば…",
+        "char_image": "keisukee/keisuke22.png",
+        "voice": "L00454"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……分かっているな？",
+        "voice": "L00455"
+      },
+      {
+        "type": "dialogue",
+        "character": "ナレーション（けいすけ）",
+        "text": "こうして、ボクの夏休みは、二人の忠実（で、少し頭の足りない）な僕（しもべ）を手に入れるところから始まった。さて、今日はどこに連れて行ってもらおうか。",
+        "voice": "L00456"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "おい、僕（しもべ）たち。今日の予定だが、ボクは少し、アカデミックな刺激が欲しい気分だ。何か案はあるか？",
+        "voice": "L00457"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "南方熊楠記念館で、知の巨人の軌跡に触れる（しょうの提案）",
+            "next_block": "kumagusu"
+          },
+          {
+            "text": "橋杭岩で、自然が作り出した奇跡の造形美を地質学的に考察する（ショウの提案）",
+            "next_block": "hashiguiiwa"
+          }
+        ]
+      }
+    ],
+    "kumagusu": [
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "けいすけ様！ それでしたら、和歌山が生んだ知の巨人、南方熊楠の記念館はいかがでしょう！ 博物学、民俗学、生物学…あらゆる分野に通じた彼の軌跡は、必ずやけいすけ様の知的好奇心を刺激するはずです！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00458"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フン…過去の偉人の功績か。悪くはないが、俺の提案の方がより実践的だ",
+        "char_image": "image/syou1.png",
+        "voice": "L00459"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ほう、南方熊楠か。面白い。よし、しょう、採用だ。案内しろ",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00460"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "ははーっ！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00469"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（記念館で、俺は熊楠の超人的な記憶力や、型破りな生き様について、仕入れてきた知識を熱心に解説する。けいすけは、食い入るように展示物を見つめていた）",
+        "background": "haikei/haikei12.jpg",
+        "char_image": "keisukee/keisuke18.png",
+        "voice": "L00462"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なるほど…既存の学問体系に囚われず、森羅万象を繋げて思考する…まさに『個』として、システムと対峙した人間だな。ショウ、お前の言う『土俵』を、百年前に体現したような男だ",
+        "voice": "L00463"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "フム…確かに、彼の探究心が生み出した肉体と精神の連携は、見事というほかない",
+        "char_image": "image/syou1.png",
+        "voice": "L00464"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "（しょうは、ショウの分析的なコメントを聞きながらも、内心でガッツポーズしていた）（よし…！ 俺の提案、大成功だ！ けいすけ様がこんなに夢中になってくれるなんて…！ ショウの筋肉自慢だけじゃ、こういう知的な満足は提供できないだろ！ 今日の奉仕合戦、ポイントは完全に俺の勝ちだな！）",
+        "char_image": "image/wakayama2.png",
+        "next_block": "ending",
+        "voice": "L00465"
+      }
+    ],
+    "hashiguiiwa": [
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "けいすけ様！ それでしたら、橋杭岩はいかがでしょう！ 約1,400万年前の火山活動によって生み出された、自然の奇跡！ その壮大なスケールと地質学的な背景は、必ずやけいすけ様の分析意欲を掻き立てるはずです！",
+        "char_image": "image/syou1.png",
+        "voice": "L00466"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "うう…ショウのやつ、なかなかいいチョイスするじゃないか…",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00467"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "……ほう、橋杭岩か。面白い。よし、ショウ、採用だ。案内しろ",
+        "char_image": "keisukee/keisuke10.png",
+        "voice": "L00468"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "ははーっ！",
+        "char_image": "image/syou1.png",
+        "voice": "L00469"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "けいすけ様、ご覧ください。この岩々は、固い流紋岩が、周囲の柔らかい泥岩の侵食に耐えて残ったものです。まさに、逆境に耐え抜いた、強靭な肉体と精神の象徴！",
+        "voice": "L00470"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "なるほどな。気の遠くなるような時間をかけて、淘汰の末に残った『結果』がこれか。美しい。完璧なまでの、自然の論理だ",
+        "background": "haikei/haikei16.jpg",
+        "char_image": "keisukee/keisuke17.png",
+        "voice": "L00471"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "弘法大師が橋を架けようとして、一晩で杭だけ作ったっていう伝説もあるんだよ！",
+        "char_image": "image/wakayama1.png",
+        "voice": "L00472"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "その非科学的な伝説と、目の前の科学的な事実の対比がまた、面白いな",
+        "char_image": "keisukee/keisuke17.png",
+        "voice": "L00473"
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（壮大な自然に触れたけいすけ様は、ご機嫌麗しいようだった。くっ…今日のポイントはショウの勝ちか…！）",
+        "next_block": "ending",
+        "voice": "L00474"
+      }
+    ],
+    "ending": [
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（数日後、白浜のビーチ。パラソルの下、リクライニングチェアに寝そべるけいすけ。その両脇で、しょうがうちわで扇ぎ、ショウが完璧なタイミングで冷たいドリンクを差し出している）",
+        "background": "haikei/haikei17.jpg",
+        "char_image": "keisukee/keisuke28.png",
+        "voice": "L00475"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "ふむ。南方熊楠の知性、橋杭岩の自然科学、アドベンチャーワールドの生命の神秘、とれとれ市場の経済活動…この数日間で、和歌山の持つ多様なパラメータを観測できた。なかなか有意義な夏だったな",
+        "voice": "L00476"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう",
+        "text": "けいすけ様にご満足いただけて、僕（しもべ）として、これ以上の喜びはありません！",
+        "voice": "L00477"
+      },
+      {
+        "type": "dialogue",
+        "character": "ショウ",
+        "text": "これも全て、けいすけ様の卓越したプランニングと、我々僕（しもべ）への的確な指示の賜物です！",
+        "voice": "L00478"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "フン。分かっているじゃないか",
+        "voice": "L00479"
+      },
+      {
+        "type": "dialogue",
+        "character": "けいすけ",
+        "text": "まあ、たまには、こういう非合理で、贅沢な時間の使い方も悪くない。……お前たち二人が、飽きさせない限りはな",
+        "voice": "L00480"
+      },
+      {
+        "type": "dialogue",
+        "character": "しょう＆ショウ",
+        "text": "「「来年の夏も、再来年の夏も！ 全力でお仕えします、ご主人様！！」」",
+        "voice": [
+          "L00481-1",
+          "L00481-2"
+        ]
+      },
+      {
+        "type": "dialogue",
+        "character": null,
+        "text": "（俺たちの暑苦しい忠誠の叫びが、白浜の空に響き渡る。女王様は、やれやれというように笑いながら、でも、本当に楽しそうに、僕（しもべ）たちが献上した最高の夏を満喫するのだった）",
+        "char_image": "keisukee/keisuke29.png",
+        "voice": "L00482"
+      },
+      {
+        "type": "ending",
+        "ending": "hidden"
+      }
+    ]
+  }
+}

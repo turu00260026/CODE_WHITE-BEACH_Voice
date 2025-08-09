@@ -1,0 +1,262 @@
+/* 基本設定 */
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+    background-color: #000;
+    color: white;
+}
+
+#game-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.screen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* タイトル画面 & 主人公選択 */
+#title-screen, #protagonist-select {
+    background: linear-gradient(45deg, #6c5ce7, #4834d4);
+}
+
+.title-logo {
+    max-width: 90%;
+    max-height: 40%;
+    width: 500px; /*基準幅*/
+    margin-bottom: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+}
+
+.audio-notice {
+    color: #ffeb3b;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 235, 59, 0.5);
+}
+
+.title-button, .menu-item-button, .choice-button {
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 2px solid white;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    margin: 10px;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.title-button:hover, .menu-item-button:hover, .choice-button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+    transform: translateY(-2px);
+}
+
+.protagonist-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.protagonist-card {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 300px;
+    box-sizing: border-box;
+}
+.protagonist-card img {
+    height: 250px;
+    margin-bottom: 20px;
+}
+
+/* ゲーム本編画面 */
+#background-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+#background-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.5s;
+}
+#character-layer {
+    position: absolute;
+    bottom: 30%;
+    left: 0;
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    z-index: 2;
+}
+#character-image {
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+#textbox {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 95%;
+    max-width: 800px;
+    height: 30%;
+    min-height: 150px;
+    background-color: rgb(0, 0, 0);
+    border-top: 2px solid rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px 10px 0 0;
+    z-index: 5;
+}
+#speaker-name-container {
+    position: absolute;
+    top: -45px;
+    left: 20px;
+}
+#speaker-name {
+    background-color: rgba(69, 170, 242, 0.9);
+    padding: 8px 18px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+#dialogue-text {
+    flex-grow: 1;
+    font-size: 1.3rem;
+    line-height: 1.6;
+    overflow-y: auto;
+    white-space: pre-wrap;
+}
+#ui-container {
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#back-button {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.7);
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+#back-button:hover { background: rgba(255, 255, 255, 0.2); color: white; }
+
+#next-indicator {
+    font-size: 1.5rem;
+    animation: bounce 1s infinite;
+}
+@keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+
+#choices-container {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 95%;
+    max-width: 800px;
+    background-color: rgb(0, 0, 0);
+    border-top: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+    z-index: 10;
+}
+#choices-container .choice-button {
+    width: 100%;
+    max-width: 600px;
+}
+
+#menu-button { position: absolute; top: 20px; right: 20px; padding: 10px 20px; font-size: 1rem; }
+
+/* メニュー画面 & エンディング画面 */
+#menu-screen, #ending-screen { background-color: rgba(0, 0, 0, 0.8); }
+.menu-box, .ending-box { background-color: #2c3e50; padding: 40px; border-radius: 10px; text-align: center; box-shadow: 0 0 20px rgba(0,0,0,0.5); }
+#ending-text { white-space: pre-wrap; max-height: 60vh; overflow-y: auto; text-align: left; background: rgba(0,0,0,0.2); padding: 20px; border-radius: 5px; }
+
+
+/* スマホ対応 */
+@media (max-width: 768px) {
+    .protagonist-container { flex-direction: column; align-items: center; gap: 20px; padding: 20px; }
+    .protagonist-card { 
+        width: 90vw; 
+        max-width: 300px;
+        padding: 15px;
+    }
+    .protagonist-card img { 
+        height: 120px;
+        margin-bottom: 10px;
+    }
+    .protagonist-card h2 {
+        font-size: 1.2rem;
+        margin: 10px 0;
+    }
+    .protagonist-card p {
+        font-size: 0.9rem;
+        line-height: 1.4;
+        margin: 10px 0;
+    }
+    #protagonist-select h1 {
+        font-size: 1.5rem;
+        margin: 10px 0 20px 0;
+    }
+    #game-screen {
+        touch-action: manipulation;
+    }
+    #textbox { height: 35%; padding: 15px; }
+    #dialogue-text { font-size: 1.0rem; }
+    #speaker-name { font-size: 1rem; padding: 5px 12px; top: -35px; }
+    #choices-container { padding: 15px; }
+    #character-layer {
+        bottom: 35%;
+        height: 65%;
+    }
+}

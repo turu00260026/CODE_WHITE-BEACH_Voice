@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CODE:WHITE BEACH -君という名の論理エラー-</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="game-container">
+        <!-- ローディング画面 -->
+        <div id="loading-screen" class="screen">
+            <p>Now Loading...</p>
+        </div>
+
+        <!-- タイトル画面 -->
+        <div id="title-screen" class="screen hidden">
+            <img src="image/title.png" alt="CODE:WHITE BEACH" class="title-logo">
+            <p class="audio-notice">⚠️ このゲームは音が出ます。音量に注意してください。</p>
+            <button id="start-button" class="title-button">ゲームスタート</button>
+            <button id="hidden-scenario-button" class="title-button hidden">隠しシナリオ</button>
+        </div>
+
+        <!-- 主人公選択画面 -->
+        <div id="protagonist-select" class="screen hidden">
+            <h1>主人公を選択してください</h1>
+            <div class="protagonist-container">
+                <div class="protagonist-card">
+                    <img src="image/syou1.png" alt="ショウ">
+                    <h2>ショウ</h2>
+                    <p>筋肉思考の疑似理論派。色白でシャイだが、筋肉哲学で全てを解決する。</p>
+                    <button id="shou-button" class="choice-button">選択</button>
+                </div>
+                <div class="protagonist-card">
+                    <img src="image/wakayama2.png" alt="しょう">
+                    <h2>しょう</h2>
+                    <p>純粋な感情論派。心優しいオタクで、和歌山への郷土愛が強い。</p>
+                    <button id="syou-button" class="choice-button">選択</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- ゲーム本編画面 -->
+        <div id="game-screen" class="screen hidden">
+            <div id="background-layer">
+                <img id="background-image" src="" alt="背景">
+            </div>
+            <div id="character-layer">
+                <img id="character-image" src="" alt="キャラクター">
+            </div>
+            <div id="textbox">
+                <div id="speaker-name-container">
+                    <div id="speaker-name"></div>
+                </div>
+                <p id="dialogue-text"></p>
+                <div id="ui-container">
+                    <button id="back-button">戻る</button>
+                    <div id="next-indicator">▼</div>
+                </div>
+            </div>
+            <div id="choices-container" class="hidden">
+            </div>
+            <button id="menu-button" class="ui-button">メニュー</button>
+        </div>
+
+        <!-- メニュー画面 -->
+        <div id="menu-screen" class="screen hidden">
+            <div class="menu-box">
+                <h2>メニュー</h2>
+                <button id="resume-button" class="menu-item-button">ゲームに戻る</button>
+                <button id="title-return-button" class="menu-item-button">タイトルに戻る</button>
+            </div>
+        </div>
+        
+        <!-- エンディング画面 -->
+        <div id="ending-screen" class="screen hidden">
+            <div class="ending-box">
+                <h2 id="ending-title"></h2>
+                <p id="ending-text"></p>
+                <button id="ending-title-button" class="menu-item-button">タイトルに戻る</button>
+            </div>
+        </div>
+    </div>
+
+<script src="script_voiced.js" defer></script>
+</body>
+</html>
